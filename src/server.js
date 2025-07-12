@@ -15,7 +15,13 @@ const port = process.env.PORT;
 //middlewares
 
 app.use(express.json())
-app.use(cors())
+app.use(cors({
+  origin: [
+    "https://shuto-shoilo-admin.vercel.app",
+    "https://shuto-shoilo-frontend.vercel.app"
+  ],
+  credentials: true
+}))
 
 //database
 connectDb()
