@@ -22,7 +22,7 @@ const productSchema = new Schema ({
         type:String,
         required:true
     },
-},{timeseries:true})
+},{timestamps:true})
 
 
 export const ProductModel = mongoose.model("ProductModel",productSchema)

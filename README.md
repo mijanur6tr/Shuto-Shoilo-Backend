@@ -1,1 +1,4 @@
-Shuto Shoio ecommerce website backend. 
+Shuto Shoio ecommerce website backend.
+
+
+ Hi i am mijanur, a full stack website developer commerce web solutions for more the one and a half year for business that can covert the use into customer. I have build the user authentication and the payment gategay process for a ecommerce and have build an ecommerce paltform from scatch for a startup. From easy going admin panel to payment gateway , from secure database to deployment your shouldn't have to worry about anything. I use nextJs react tailwind for the frontend and for the backend part i use express node javascript or typescript. Boosting your business with proper business logic in my clean and efficient code is my main moto. Feel free to send me a message, check out my works, build trust and let's make your online presence better that can increase the sells.
